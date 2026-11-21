@@ -1,0 +1,36 @@
+{
+  "v": 5,
+  "createdOnFiles": { "v": 1, "at": "2026-11-20T16:58:00Z" },
+  "lists": "css",
+  "format": { "v": 1, "shared": ["project/deck.css"] },
+  "title": "Digital Footprints",
+  "order": [
+    "cover",
+    "hook",
+    "basics",
+    "logs",
+    "pipeline",
+    "inference",
+    "feed",
+    "leaks",
+    "steps",
+    "close",
+    "thanks"
+  ],
+  "sections": {
+    "s1": { "description": "The Hook and Foundation", "start": "cover" },
+    "s2": { "description": "Telemetry and Profiling Pipeline", "start": "logs" },
+    "s3": { "description": "Inference, Feeds, and Permanent Leaks", "start": "inference" },
+    "s4": { "description": "Actionable Mitigation and Takeaway", "start": "steps" }
+  },
+  "faces": {
+    "space-grotesk": {
+      "family": "Space Grotesk",
+      "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400..700&display=swap"
+    },
+    "inter": {
+      "family": "Inter",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+    }
+  }
+}
