@@ -9,13 +9,34 @@ change the predictive modeling & correlation : 1st point is vauge
 slide page 3 :
 
 in passive :
-add bluetooth beacon, daily travel routes, [medical worries (under search queries, won't be on slide but on the script), curiosities ], purchases histories 
+add bluetooth beacon, daily travel routes, [medical worries (under search queries, won't be on slide but on the script), curiosities ], purchases histories (details will be on the script),device info (details will be on the script, e.g., battery health, screen resolution, browser extension, etc), 
 
 slide page 4 : 
 
+remove everything except "micro-signals" this will be a dedicated slide for this. though the script for it won't be that long.
+
+slide page 5: 
+###
+the side will be like : shows that a machine learning model will use multiple raw dataset and complie an extensive and predictive profile about users. 
+script will include : the raw datasets are the ones we previously talked before. e.g. browser cookies, app telemetery, identity resolution across all device, social graph and relationship mapping
+###
+the output of this? : targetted add, price steering and feed ranking.
+
+slide page 6:
+
+slide page 8:
 
 
+slide page 9:
+shorten the no.4 point, 
 
+slide page 10 : 
+
+shorten the lines here.
+
+slide 11 : 
+
+remove the "presented by student 383 and student 388 line
 
 the start of the presentation should be like this : 
 
