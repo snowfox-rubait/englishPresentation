@@ -47,6 +47,13 @@ have you ever wondered that when you think about something, how an ad pops up ab
 are they listening to you? how do they do that. todays presentation topic will clear that out. 
 
 
-assalamualaikum, i'm rubait and i'll be presenting the digital footprint topic.
+assalamualaikum, i'm rubait and we'll be presenting the digital footprint topic.
 
 <presentation starts from here>
+
+
+i'll do the introduction, problem, causes and the explanation.
+
+sofiullah will do the outro (the how to mitigate step) 
+
+make a script for sofiullah
