@@ -8,6 +8,11 @@ change the predictive modeling & correlation : 1st point is vauge
 
 slide page 3 :
 
+in passive :
+add bluetooth beacon, daily travel routes, [medical worries (under search queries, won't be on slide but on the script), curiosities ], purchases histories 
+
+slide page 4 : 
+
 
 
 
