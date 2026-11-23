@@ -13,7 +13,7 @@ add bluetooth beacon, daily travel routes, [medical worries (under search querie
 
 slide page 4 : 
 
-remove everything except "micro-signals" this will be a dedicated slide for this. though the script for it won't be that long.
+remove everything except "micro-signals" this will be a dedicated slide for this. though the script for it won't be that long. this micro signals will be moved to merged slide 6 & 7
 
 slide page 5: 
 ###
@@ -23,7 +23,7 @@ script will include : the raw datasets are the ones we previously talked before.
 the output of this? : targetted add, price steering and feed ranking.
 
 slide page 6 & slide page 7 :
-should be shortned and merged.
+should be shortned and merged. also the micro-signal thing will be merged here.
 
 slide page 8: when it leaks
 
