@@ -22,10 +22,12 @@ script will include : the raw datasets are the ones we previously talked before.
 ###
 the output of this? : targetted add, price steering and feed ranking.
 
-slide page 6:
+slide page 6 & slide page 7 :
+should be shortned and merged.
 
-slide page 8:
+slide page 8: when it leaks
 
+you need to short this a lot
 
 slide page 9:
 shorten the no.4 point, 
