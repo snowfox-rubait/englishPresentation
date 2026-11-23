@@ -1,6 +1,12 @@
-slide page 1 : 
+the start of the presentation should be like this : 
 
-remove the bottom part and replace with something else.
+have you ever wondered that when you think about something, how an ad pops up about the same thing?
+
+are they listening to you? how do they do that. todays presentation topic will clear that out. 
+
+assalamualaikum, i'm rubait and we'll be presenting the digital footprint topic.
+
+
 
 slide page 2 : 
 
@@ -9,7 +15,8 @@ change the predictive modeling & correlation : 1st point is vauge
 slide page 3 :
 
 in passive :
-add bluetooth beacon, daily travel routes, [medical worries (under search queries, won't be on slide but on the script), curiosities ], purchases histories (details will be on the script),device info (details will be on the script, e.g., battery health, screen resolution, browser extension, etc), 
+, [medical worries (under search queries, won't be on slide but on the script), curiosities ], purchases histories (credit card categories, items bought, brand loyalty and items abandoned in cart),device info (details will be on the script, e.g., battery health, screen resolution, browser extension, etc), 
+Micro-signals require zero voluntary sharing: lingering over a post without clicking still logs interest.
 
 slide page 4 : 
 
@@ -35,25 +42,3 @@ shorten the no.4 point,
 slide page 10 : 
 
 shorten the lines here.
-
-slide 11 : 
-
-remove the "presented by student 383 and student 388 line
-
-the start of the presentation should be like this : 
-
-have you ever wondered that when you think about something, how an ad pops up about the same thing?
-
-are they listening to you? how do they do that. todays presentation topic will clear that out. 
-
-
-assalamualaikum, i'm rubait and we'll be presenting the digital footprint topic.
-
-<presentation starts from here>
-
-
-i'll do the introduction, problem, causes and the explanation.
-
-sofiullah will do the outro (the how to mitigate step) 
-
-make a script for sofiullah
